@@ -11,7 +11,7 @@ This is a web-based weather application that retrieves and displays real-time we
 - **API Integration**: Uses the OpenWeatherMap API to fetch weather data.
 
 ## Demo
-[Clikck here for live demo](https://samiansari01.github.io/UM-Weather-App/)
+[Clikck here for live demo](https://alsami-ansari.github.io/UM-Weather-App/)
 ![Screenshot (96)](https://github.com/user-attachments/assets/d7adea5a-cd5b-4bdc-90b0-b6e3450ec88c)
 
 ## Technologies Used
