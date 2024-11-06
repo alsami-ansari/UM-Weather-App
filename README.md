@@ -23,7 +23,7 @@ This is a web-based weather application that retrieves and displays real-time we
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/samiansari01/UM-Weather-App.git
+   git clone https://github.com/alsami-ansari/UM-Weather-App.git
    ```
 2. Navigate to the project directory:
    ```bash
